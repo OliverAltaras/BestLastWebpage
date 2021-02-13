@@ -17,6 +17,11 @@ There is room to leave comments and the user can change the aspect of it.
 
 Note: This website was created as a third-degree project, it is not hosted anywhere, nor does it actually allow you to carry out transactions.
 
-IV Licence
+IV Languages used
+
+HTML5, CSS, JavaScript, MySQL and PHP.
+Uses the XAMPP stack.
+
+V Licence
 
 Feel free to use or adapt any aspect of the code. If possible, give credit to the author.
